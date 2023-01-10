@@ -1,6 +1,14 @@
 # kaggle-titanic-ml
 Machine Learning from Disaster. Predict survival on the Titanic.
 
+# Links
+<div class="aside">
+    <a href="https://colab.research.google.com/github/lupiel/kaggle-titanic-ml/blob/main/ml-notebook.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+</div>
+
+[Kaggle competition: Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)  
+[Machine Learning book and code samples](https://github.com/ageron/handson-ml3)
+
 ## Overview
 
 The data has been split into two groups:
