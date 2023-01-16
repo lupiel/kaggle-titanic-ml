@@ -1,5 +1,5 @@
 # kaggle-titanic-ml
-Solving a binary classification problem. Machine Learning from Disaster. Predict survival on the Titanic.
+Learning from a binary classification problem. Predict survival on the Titanic. Machine Learning from Disaster.
 
 # Links
 <div class="aside">
